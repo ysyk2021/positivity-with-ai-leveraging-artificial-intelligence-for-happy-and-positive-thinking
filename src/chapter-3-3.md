@@ -1,5 +1,3 @@
-Setting Realistic Goals and Tracking Progress on Your Positivity Journey
-==================================================================================================================================
 
 To effectively leverage artificial intelligence (AI) for positive thinking, it is important to design a personalized positivity practice that includes setting realistic goals and tracking progress. In this chapter, we will explore how to set achievable goals and use AI to track progress on your positivity journey.
 

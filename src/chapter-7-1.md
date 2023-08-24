@@ -1,5 +1,3 @@
-Recap of the benefits of using AI for promoting positivity
-======================================================================
 
 In this book, we explored how Artificial Intelligence (AI) can be used to promote positivity and improve overall well-being. From mood tracking apps to virtual assistants, AI-powered tools are transforming the way we cultivate positivity and happiness.
 

@@ -1,5 +1,3 @@
-Addressing Concerns about Privacy and Security When Using AI in Positivity Practices
-===============================================================================================================================================================================
 
 The use of AI-powered tools and apps for positivity practices raises concerns about privacy and security. In this chapter, we will explore some best practices for addressing these concerns and ensuring that personal data is protected.
 

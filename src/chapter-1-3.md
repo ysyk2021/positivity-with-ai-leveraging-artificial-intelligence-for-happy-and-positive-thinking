@@ -1,5 +1,3 @@
-What You Can Expect from This Book
-================================================
 
 In today's fast-paced world, it can be challenging to maintain a positive mindset and cultivate happiness and well-being. However, with the rise of artificial intelligence (AI), individuals have new tools and strategies for improving their positive thinking skills.
 

@@ -1,5 +1,3 @@
-Chapter 3: Leveraging Machine Learning for Personalized Positivity Support
-==========================================================================
 
 Machine learning can be leveraged to create personalized positivity support by using sentiment analysis to understand triggers and cultivate positive emotions, implementing AI-powered reminders and prompts for focusing on the positive, and personalizing positivity practices. In this chapter, we will explore how machine learning can be used to improve positive thinking skills.
 

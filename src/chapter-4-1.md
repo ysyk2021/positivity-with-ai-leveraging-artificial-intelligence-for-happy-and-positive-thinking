@@ -1,5 +1,3 @@
-Using Machine Learning-Powered Sentiment Analysis for Understanding Triggers and Cultivating Positive Emotions
-==========================================================================================================================================================================================
 
 Machine learning can be leveraged to create personalized positivity support by using sentiment analysis to understand an individual's triggers for negative emotions and cultivating positive ones. In this chapter, we will explore how machine learning-powered sentiment analysis can be used to provide personalized support for cultivating positive emotions.
 

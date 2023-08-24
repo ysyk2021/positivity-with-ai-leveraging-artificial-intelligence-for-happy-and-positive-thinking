@@ -1,5 +1,3 @@
-Chapter 2: Designing Your AI-Powered Positivity Practice
-========================================================
 
 Developing a positivity practice can help us cultivate a more optimistic outlook and improve our overall well-being. With the help of Artificial Intelligence (AI), we can design a personalized practice that is tailored to our needs and preferences.
 

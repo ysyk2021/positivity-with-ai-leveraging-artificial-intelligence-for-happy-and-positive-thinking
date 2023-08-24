@@ -1,5 +1,3 @@
-Steps for Creating a Personalized Positivity Practice
-===============================================================================================================
 
 Creating a personalized positivity practice that leverages artificial intelligence (AI) can be a powerful way to improve positive thinking skills and achieve greater well-being. In this chapter, we will outline the steps for creating a personalized positivity practice using AI.
 

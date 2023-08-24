@@ -1,5 +1,3 @@
-Personalizing Positive Thinking Exercises with Machine Learning
-=========================================================================================================================
 
 Positive thinking exercises are a powerful tool for cultivating happiness and positivity in our lives. However, everyone is unique, and what works for one person may not work for another. In this chapter, we will discuss how AI can be used to personalize positive thinking exercises and make them more effective for individuals.
 

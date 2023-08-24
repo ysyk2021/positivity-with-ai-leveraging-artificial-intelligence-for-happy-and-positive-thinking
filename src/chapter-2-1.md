@@ -1,5 +1,3 @@
-What is AI and How Does it Work?
-================================================================================================
 
 Artificial Intelligence (AI) is a rapidly evolving field with applications in many areas of our lives, including positivity and happiness. In this chapter, we will discuss what AI is, how it works, and its potential applications in promoting positive thinking.
 

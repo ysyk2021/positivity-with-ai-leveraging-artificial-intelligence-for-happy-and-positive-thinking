@@ -1,5 +1,3 @@
-Personalizing Positivity Practices with Machine Learning
-====================================================================================================================================
 
 Machine learning can be leveraged to create personalized positivity support by tailoring positivity practices to an individual's unique needs and preferences. In this chapter, we will explore how machine learning can be used to personalize positivity practices and improve their effectiveness.
 
