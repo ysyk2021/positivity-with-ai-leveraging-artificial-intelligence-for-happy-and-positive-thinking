@@ -1,5 +1,4 @@
-Chapter 3: Examples of Successful Implementation of AI in Positivity
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore several real-world examples where Artificial Intelligence (AI) has been successfully implemented to foster positivity and cultivate a happy mindset. These applications demonstrate the transformative power of AI in promoting well-being and personal growth.
 

@@ -1,5 +1,4 @@
-Chapter 7: Setting Realistic Goals and Tracking Progress on Your Positivity Journey
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of setting realistic goals and implementing effective progress tracking methods throughout your positivity journey. By leveraging Artificial Intelligence (AI) technologies, we can enhance goal-setting strategies and develop personalized tracking systems that keep you motivated, accountable, and optimistic.
 

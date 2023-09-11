@@ -1,5 +1,4 @@
-Chapter: Implementing AI-Powered Reminders and Prompts for Focusing on the Positive
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the implementation of AI-powered reminders and prompts to help individuals focus on the positive aspects of life. By leveraging artificial intelligence (AI) technologies, we can design intelligent systems that offer timely and personalized reminders, encouraging and supporting positive thinking.
 

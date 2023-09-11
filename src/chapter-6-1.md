@@ -1,5 +1,4 @@
-Chapter: Addressing Concerns about Privacy and Security when Using AI in Positivity Practices
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will address the important concerns surrounding privacy and security when leveraging artificial intelligence (AI) for positivity practices. While AI can offer tremendous benefits in promoting happy and positive thinking, it is crucial to ensure that users' personal information and well-being are protected. Understanding and addressing these concerns will help build trust and confidence in AI-powered positivity interventions.
 

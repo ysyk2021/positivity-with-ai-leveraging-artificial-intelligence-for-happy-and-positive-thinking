@@ -1,5 +1,4 @@
-Chapter: What is AI and How Does it Work?
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the fundamentals of artificial intelligence (AI) and gain an understanding of how it works. We will delve into the key concepts and techniques that underpin AI systems, enabling them to leverage advanced algorithms and data to accomplish various tasks.
 
